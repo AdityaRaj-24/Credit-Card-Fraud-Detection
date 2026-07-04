@@ -1,0 +1,5 @@
+Model,Accuracy
+Isolation Forest,0.997741184181267
+Local Outlier Factor,0.9965825169996372
+One-Class SVM,0.9599616118347905
+Isolation Forest (tuned threshold),0.9973432580784851
